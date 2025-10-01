@@ -1,4 +1,5 @@
-public class Main{
+
+public class SingleTest{
     public static void main(String[] args) {
         Kelinci kelinci1 = new Kelinci("si putih", 4);
         kelinci1.mencariMakan();
