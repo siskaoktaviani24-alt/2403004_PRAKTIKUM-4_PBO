@@ -9,10 +9,10 @@ public class Hewan{
     }
 
     public void makan(){
-        System.out.println(nama + " sedang makan.");
+        System.out.println(nama + " sedang makan");
     }
 
     public void tidur(){
-        System.out.println(nama + " sedang tidur.");
+        System.out.println(nama + " sedang tidur");
     }
 }
