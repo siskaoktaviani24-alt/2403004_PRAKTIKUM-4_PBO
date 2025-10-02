@@ -1,4 +1,3 @@
-
 public interface Karnivora {
     String jenisMakanan = "Daging";
 

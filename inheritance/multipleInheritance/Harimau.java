@@ -1,4 +1,3 @@
-
 public class Harimau implements Mamalia, Karnivora {
     public String nama;
     public int usia;
