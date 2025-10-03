@@ -1,4 +1,4 @@
-gitpublic class AkunBank {
+public class AkunBank {
     
     private int saldo;
 
